@@ -96,9 +96,9 @@ const resume = () => (
             tools and machines to skin, bone, and slice poultry. Move carcasses
             to chillers and freezers.
           </li>
-          <li>• Oversaw packing of boned and slicing of meat into cartons.</li>
+          <li>* Oversaw packing of boned and slicing of meat into cartons.</li>
           <li>
-            • Ensured cleanliness and sanitization of equipment as well as work
+            * Ensured cleanliness and sanitization of equipment as well as work
             areas.
           </li>
         </ul>
@@ -121,12 +121,12 @@ const resume = () => (
             machines, including slice, peel, skin, and crumb.
           </li>
           <li>
-            • Understood specifications for each line of products required by
+            * Understood specifications for each line of products required by
             strict retailers and processed products tailored to retailers'
             customers' demand.
           </li>
           <li>
-            • Achieved appreciation from factory supervisors and company
+            * Achieved appreciation from factory supervisors and company
             director for working efficiently and processing high quality
             products at less time with less waste.
           </li>
@@ -149,11 +149,11 @@ const resume = () => (
             project.
           </li>
           <li>
-            • Designed and executed systems as well as procedures to enable
+            * Designed and executed systems as well as procedures to enable
             tradespeople and employees to manage tasks in efficient way.
           </li>
           <li>
-            • Verified high level of performance and compliance with health and
+            * Verified high level of performance and compliance with health and
             safety guidelines by leading and coordinating day-to-day functions
             of worksite.
           </li>
@@ -176,11 +176,11 @@ const resume = () => (
             project.
           </li>
           <li>
-            • Designed and executed systems as well as procedures to enable
+            * Designed and executed systems as well as procedures to enable
             tradespeople and employees to manage tasks in efficient way.
           </li>
           <li>
-            • Verified high level of performance and compliance with health and
+            * Verified high level of performance and compliance with health and
             safety guidelines by leading and coordinating day-to-day functions
             of worksite.
           </li>
