@@ -45,14 +45,18 @@ const resume = () => (
         </div>
       </div>
       <p>
-        For the past two years, I have self-taught, been skilled and
-        self-motivated to become knowledgeable in the user interface, testing,
-        and debugging processes. I have proactively equipped with a diverse and
-        promising skill-set in designing, installing, testing and maintaining
-        web systems. I am able to effectively self-manage independent projects
-        and collaboratively work in a team setting. I am proficient in an
-        assortment of technologies and would like to become a senior web
-        developer and a professional in my chosen practice field.
+        Versatile and accomplished web designer with expertise creating new
+        websites and applications. Proven success leading and driving
+        enterprise-wide projects towards completion within agreed timelines and
+        budgetary constraints in Agile environments. Good understanding of
+        relevant legislation regulations and protocols concerning construction,
+        building, health, and safety. Adept at improving network performance,
+        creating backups, and enhancing network speed. Demonstrated ability to
+        determine complex technical issues through root cause analysis and offer
+        robust solutions to minimize system downtime. Track record of diagnosing
+        and troubleshooting problems in response to customer reported incident
+        via trouble tickets. Talent for coordinating, implementing, and
+        maintaining installation and operation of customer application systems.
       </p>
       {/* Skills */}
       <div className='text-center py-4'>
@@ -60,8 +64,8 @@ const resume = () => (
         <p className='py-2'>
           <span className='font-bold'>Technical Skills</span>
           <span className='px-2'>|</span> JavaScript
-          <span className='px-2'>|</span> Node Js
           <span className='px-2'>|</span> React
+          <span className='px-2'>|</span> Node Js
           <span className='px-2'>|</span> Next Js
           <span className='px-2'>|</span> HTML
           <span className='px-2'>|</span>CSS
@@ -87,12 +91,16 @@ const resume = () => (
         </p>
         <p className='py-1 italic'>Worker (2018 - Current)</p>
         <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-          <li>Boning and slicing processed poultry;</li>
-          <li>Packing boned and sliced meat into cartons;</li>
           <li>
-            Operating tools and machines that skin, bone and slice poultry;
+            Manage boning and slicing process of poultry. Administer operating
+            tools and machines to skin, bone, and slice poultry. Move carcasses
+            to chillers and freezers.
           </li>
-          <li>Cleaning and sanitizing equipment and work areas.</li>
+          <li>• Oversaw packing of boned and slicing of meat into cartons.</li>
+          <li>
+            • Ensured cleanliness and sanitization of equipment as well as work
+            areas.
+          </li>
         </ul>
       </div>{' '}
       {/* Experience */}
@@ -105,12 +113,23 @@ const resume = () => (
         </p>
         <p className='py-1 italic'>Worker (2013 - 2017)</p>
         <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-          <li>Boning and slicing processed poultry;</li>
-          <li>Packing boned and sliced meat into cartons;</li>
           <li>
-            Operating tools and machines that skin, bone and slice poultry;
+            Severed jugular veins of poultry and removed viscera/residual
+            material from poultry carcasses. Separated organs and glands, such
+            as sweetbreads, livers, hearts, and spleens from poultry carcasses.
+            Inspected and graded poultry for size and quality. Operated
+            machines, including slice, peel, skin, and crumb.
           </li>
-          <li>Cleaning and sanitizing equipment and work areas.</li>
+          <li>
+            • Understood specifications for each line of products required by
+            strict retailers and processed products tailored to retailers'
+            customers' demand.
+          </li>
+          <li>
+            • Achieved appreciation from factory supervisors and company
+            director for working efficiently and processing high quality
+            products at less time with less waste.
+          </li>
         </ul>
       </div>
       {/* Experience */}
@@ -122,27 +141,21 @@ const resume = () => (
         <p className='py-1 italic'>Engineer (2011 - 2013)</p>
         <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
           <li>
-            Overseeing and coordinating the daily operations of a worksite to
-            ensure a high level of performance and compliance with health and
-            safety guidelines;
+            Ensured safe and efficient operation of site through collaboration
+            with senior management and stakeholders. Utilized solid leadership,
+            communication, and project management skills for operational
+            excellence. Supervised materials and employee at site. Steered
+            various activities regarding implementation and completion of
+            project.
           </li>
           <li>
-            Developing and implementing systems and procedures that enable
-            tradespeople and employees to carry out their tasks in the most
-            efficient way;
+            • Designed and executed systems as well as procedures to enable
+            tradespeople and employees to manage tasks in efficient way.
           </li>
           <li>
-            Working closely with senior management and stakeholders to ensure a
-            safe and efficient operation of the site;
-          </li>
-          <li>
-            Being equipped with solid leadership and communication skills and
-            project management skills;
-          </li>
-          <li>
-            Possesses a good understanding of relevant legislation regulations
-            and protocols concerning the construction, building, health and
-            safety.
+            • Verified high level of performance and compliance with health and
+            safety guidelines by leading and coordinating day-to-day functions
+            of worksite.
           </li>
         </ul>
       </div>{' '}
@@ -155,27 +168,21 @@ const resume = () => (
         <p className='py-1 italic'>Engineer (2009 - 2011)</p>
         <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
           <li>
-            Overseeing and coordinating the daily operations of a worksite to
-            ensure a high level of performance and compliance with health and
-            safety guidelines;
+            Ensured safe and efficient operation of site through collaboration
+            with senior management and stakeholders. Utilized solid leadership,
+            communication, and project management skills for operational
+            excellence. Supervised materials and employee at site. Steered
+            various activities regarding implementation and completion of
+            project.
           </li>
           <li>
-            Developing and implementing systems and procedures that enable
-            tradespeople and employees to carry out their tasks in the most
-            efficient way;
+            • Designed and executed systems as well as procedures to enable
+            tradespeople and employees to manage tasks in efficient way.
           </li>
           <li>
-            Working closely with senior management and stakeholders to ensure a
-            safe and efficient operation of the site;
-          </li>
-          <li>
-            Being equipped with solid leadership and communication skills and
-            project management skills;
-          </li>
-          <li>
-            Possesses a good understanding of relevant legislation regulations
-            and protocols concerning the construction, building, health and
-            safety.
+            • Verified high level of performance and compliance with health and
+            safety guidelines by leading and coordinating day-to-day functions
+            of worksite.
           </li>
         </ul>
       </div>
